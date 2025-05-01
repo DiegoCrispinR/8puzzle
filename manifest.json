@@ -1,0 +1,16 @@
+{
+  "name": "8-Puzzle Game",
+  "short_name": "8-Puzzle",
+  "description": "A minimalist 8-puzzle sliding game with scoreboard",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#4CAF50",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    }
+  ]
+}
